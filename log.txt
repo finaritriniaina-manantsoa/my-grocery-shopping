@@ -1,0 +1,27 @@
+Alphorm - ReactJS, Redux et l'API Contexte : Créer un site e-commerce de A à Z - Sandy Ludosky
+**************
+27/09/2021 - DEMMARAGE - ReactJS, Redux, API Contexte
+**************
+CMD : 
+> yarn create react-app my-online-shopping
+> yarn start
+> yarn start
+    Starts the development server.
+
+> yarn build
+    Bundles the app into static files for production.
+
+> yarn test
+    Starts the test runner.
+
+> yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+> npm install react-router-dom
+> yarn add react-redux
+> yarn add redux --save
+> yarn add lodash.merge
+> yarn add bootstrap-icons --save
+
+NB: yarn install (install all the dependecies)
