@@ -3,28 +3,20 @@ import Navbar from './components/navbar';
 import Footer from './components/footer';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './css/style.css';
-
-const SideMenu = () => {
-    return (
-        <div className="col-sm-2">
-            <ul>
-                <li>Légumes</li>
-                <li>Fruits</li>
-                <li>Produits Frais</li>
-            </ul>
-        </div>
-    )
-}
+import SideMenu from './components/sidemenu';
+import Card from './components/card';
 
 const App = () => {
     return ( 
         <Fragment>
             <Navbar></Navbar>
-            <div className="container">
+            <div className="container mt-4">
                 <div className="row">
                     <SideMenu/>
                     <div className="col-sm">
-                        Store
+                        <div className="row">
+                            <Card/>
+                        </div>
                     </div>
                 </div>
             </div>

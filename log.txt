@@ -25,3 +25,13 @@ CMD :
 > yarn add bootstrap-icons --save
 
 NB: yarn install (install all the dependecies)
+
+*************************************************************************
+28/09/2021
+*************************************************************************
+- Registration with https://rapidapi.com/ using github account : finaritriniaina-manantsoa / organization : dev-fina
+
+*************************************************************************
+21/10/2021
+*************************************************************************
+- 
